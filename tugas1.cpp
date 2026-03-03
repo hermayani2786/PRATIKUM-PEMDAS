@@ -7,5 +7,8 @@ int p, l, luas;
 
 //Implementasi Prosedur dan Fungsi
 void input() {
-    
+    cout << "masukkan panjang = ";
+    cin >> p;
+    cout << "masukkan lebar = ";
+    cin >> l;
 }
